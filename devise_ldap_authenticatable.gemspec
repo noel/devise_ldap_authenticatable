@@ -126,7 +126,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<net-ldap>, ["= 0.2.2"])
     end
   else
-    s.add_dependency(%q<devise>, ["= 1.3.1"])
+    s.add_dependency(%q<devise>, ["= 1.5.2"])
     s.add_dependency(%q<net-ldap>, ["= 0.2.2"])
   end
 end
